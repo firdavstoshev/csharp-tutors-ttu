@@ -1,0 +1,12 @@
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\bin\Debug\net6.0\ClassLibraryIT.deps.json
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\bin\Debug\net6.0\ClassLibraryIT.dll
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\bin\Debug\net6.0\ClassLibraryIT.pdb
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.csproj.AssemblyReference.cache
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.AssemblyInfoInputs.cache
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.AssemblyInfo.cs
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.csproj.CoreCompileInputs.cache
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.dll
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\refint\ClassLibraryIT.dll
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ClassLibraryIT.pdb
+C:\Users\Firdavs\Desktop\csharp\ClassLibraryIT\obj\Debug\net6.0\ref\ClassLibraryIT.dll

@@ -1,0 +1,5 @@
+C:\Users\Firdavs\Desktop\csharp\CSInherit\obj\Debug\net6.0\CSInherit.csproj.AssemblyReference.cache
+C:\Users\Firdavs\Desktop\csharp\CSInherit\obj\Debug\net6.0\CSInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firdavs\Desktop\csharp\CSInherit\obj\Debug\net6.0\CSInherit.AssemblyInfoInputs.cache
+C:\Users\Firdavs\Desktop\csharp\CSInherit\obj\Debug\net6.0\CSInherit.AssemblyInfo.cs
+C:\Users\Firdavs\Desktop\csharp\CSInherit\obj\Debug\net6.0\CSInherit.csproj.CoreCompileInputs.cache
